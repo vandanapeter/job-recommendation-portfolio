@@ -246,16 +246,43 @@ Final Score = (Content Score × 0.35) + (Collaborative Score × 0.30) + (NN Scor
 
 ## Screenshots
 
-> Web application screenshots — job seeker dashboard, recruiter portal, recommendation output.
+### Landing Page
+![Landing Hero](screenshots/landing_hero.png)
+*"Your AI-Powered Career Platform" — intelligent job matching, ATS optimization, and salary prediction*
 
-| View | Screenshot |
-|------|-----------|
-| Landing Page | ![Landing](screenshots/landing.png) |
-| Job Seeker Dashboard | ![Dashboard](screenshots/dashboard.png) |
-| Recommendation Results | ![Recommendations](screenshots/recommendations.png) |
-| Skill Gap View | ![Skill Gap](screenshots/skill_gap.png) |
-| Recruiter Portal | ![Recruiter](screenshots/recruiter.png) |
-| ATS Score Report | ![ATS](screenshots/ats_score.png) |
+![AI-Powered Features](screenshots/landing_features.png)
+*Feature highlights: AI Job Matching · ATS Score Optimizer · Salary Prediction · Smart Resume Parsing*
+
+---
+
+### Authentication
+| Register | Login |
+|----------|-------|
+| ![Register](screenshots/register.png) | ![Login](screenshots/login.png) |
+
+---
+
+### Job Seeker Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Personalized dashboard with quick access to Job Search, AI Recommendations, ATS Score, and Salary Predictor*
+
+---
+
+### AI Job Recommendations
+![Job Recommendations](screenshots/job_recommendations.png)
+*Upload resume (PDF/DOCX/TXT) → auto-parsed skills, education & experience → ML-powered job matches with salary predictions*
+
+---
+
+### ATS Score Checker
+![ATS Score](screenshots/ats_score.png)
+*Real-time ATS compatibility analysis — scores Contact Info, Formatting, Keyword Relevance, Achievements, Resume Sections, and Technical Tools with actionable suggestions*
+
+---
+
+### Salary Predictor
+![Salary Predictor](screenshots/salary_predictor.png)
+*ML-based salary range prediction — Senior Data Scientist with Python/TensorFlow/Django skills → ₹12,325,000–₹17,000,000 estimated range*
 
 ---
 
